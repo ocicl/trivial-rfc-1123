@@ -1,0 +1,9 @@
+* trivial-rfc-1123
+
+parse and print RFC-1123 timestamps
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/stacksmith/trivial-rfc-1123.git |
+| commit  | 9ef59c3                                                |
+| systems | trivial-rfc-1123                                       |
+|---------+--------------------------------------------------------|
